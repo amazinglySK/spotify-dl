@@ -1,6 +1,12 @@
 # Spotify DL
 
-dl for "download"
+dl for "download(er)"
+
+Made with open source libraries :
+
+1. [pytube](https://github.com/pytube/pytube)
+2. [typer](https://github.com/tiangolo/typer)
+3. [spotipy](https://github.com/plamere/spotipy)
 
 ## Get Started
 
